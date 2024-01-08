@@ -1,0 +1,1 @@
+export const ScreenType={home: "HOME", see_user: "SEE_USER"}
