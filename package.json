@@ -26,6 +26,7 @@
     "js-yaml": "^5.4.2",
     "image-size": "^2.0.4",
     "@xmldom/xmldom": "^0.9.12",
-    "brace-expansion": "^5.0.12"
+    "brace-expansion": "^5.0.12",
+    "semver": "^7.8.5"
   }
 }
